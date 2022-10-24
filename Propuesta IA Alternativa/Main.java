@@ -14,7 +14,7 @@ public class Main
         /*Por que cuando es Agente vs Agente debe jugar siempre con la funcion que Maximiza y no Max vs Min? 
 
             Esto es debido a que solo existe una Instancia de Agente presente en este Programa, por lo que si se hace un Max vs Min
-            con una Función Reflejo de "ObtenerElMejorMovimientoClaroQueSi" una optara por tomar los PEORES Movimientos para si
+            con una Función Reflejo de "EncontrarElMejorMovimientoClaroQueSi" una optara por tomar los PEORES Movimientos para si
             misma.*/
     }
 }
