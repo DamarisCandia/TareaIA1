@@ -2,13 +2,13 @@ public class Main
 {    
     public static void main (String [] args)
     {
-        //TEST II [Desarrollo | No experimental, aun] - CONTRA UN USUARIO HUMANO
+        //TEST I & II [Experimental] - CONTRA UN USUARIO HUMANO
         //JuegoDelGatoIAvsUsuario Gato = new JuegoDelGatoIAvsUsuario ();
         //Gato.JugarGato();
 
-        //TEST III [Desarrollo | No experimental, aun] - IA VS IA
-        JuegoDelGatoIAvsIA Gato2 = new JuegoDelGatoIAvsIA ();
-        Gato2.JugarGato();
+        //TEST III & IV [Experimental] - IA VS IA
+        //JuegoDelGatoIAvsIA Gato2 = new JuegoDelGatoIAvsIA ();
+        //Gato2.JugarGato();
 
 
         /*Por que cuando es Agente vs Agente debe jugar siempre con la funcion que Maximiza y no Max vs Min? 
